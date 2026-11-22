@@ -1,8 +1,6 @@
 # Physical Access Governance & Security Control Standardization
 
-**Professional experience-informed, employer-neutral case study | Jack W. Danford Jr.**
-
-This is a newly written, fictional example of governance work informed by my background developing physical-security procedures, training standards, and documentation expectations.
+**A fictional case study based on my experience writing security procedures and training officers.**
 
 I authored workplace working drafts concerning procedural consistency, identity/authorization verification, escalation, and officer training. This portfolio **does not reproduce those employer documents**, and it does not claim that the original drafts were approved or adopted.
 
