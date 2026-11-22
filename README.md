@@ -12,6 +12,12 @@ I authored workplace working drafts concerning procedural consistency, identity/
 - [Decision and evidence matrix](DECISION_EVIDENCE_MATRIX.md)
 - [Training and assurance plan](TRAINING_AND_ASSURANCE.md)
 
+## Example control decision
+
+In this fictional scenario, a sample of access records is missing approval references. The control owner cannot reliably trace those decisions to an authorized approver. I would ask the control owner to clarify which approval information staff must record, coach staff on the revised process, and sample a new set of records to check whether the correction worked.
+
+[See the decision and evidence matrix](DECISION_EVIDENCE_MATRIX.md#example-finding-fictional) for the full example.
+
 ## Skills illustrated
 
 Policy and SOP development; access governance; control ownership; documented exceptions; evidence-based decisions; risk escalation; training; officer coaching; control monitoring; and continuous improvement.
